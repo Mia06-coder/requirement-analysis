@@ -70,3 +70,16 @@ Non-functional requirements define **how the system performs**, focusing on the 
 - **Scalability**: Able to handle increased load as user base or listings grow. 
 - **Consistency**: Prevent double bookings by ensuring transactional accuracy.  
 
+## 🧾 Use Case Diagrams
+
+A **Use Case Diagram** is a visual representation of the interactions between users (actors) and the system. It outlines the key functionalities (use cases) that the system must support, making it easier to understand the scope and user behaviour.
+
+### 🎯 Benefits of Use Case Diagrams
+- Communicates how users interact with the system  
+- Helps identify system boundaries and major features  
+- Supports planning, design, and testing phases
+
+<p align="center">
+  <img src="./alx-booking-uc.png" alt="Use Case Diagram for Booking Management System" />
+</p>
+<p align="center"><strong>Figure 1:</strong> Use Case Diagram for Booking Management System</p>
