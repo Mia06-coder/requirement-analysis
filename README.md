@@ -31,3 +31,22 @@ Requirement Analysis plays a vital role in the success of any software project. 
 
 3. **Ensures Stakeholder Satisfaction**  
    Involving users and stakeholders during requirement gathering guarantees the final solution addresses real needs, increasing satisfaction and usability.
+
+## 🛠️ Key Activities in Requirement Analysis
+
+The Requirement Analysis phase consists of several key activities that ensure a thorough understanding of what the software system should achieve:
+
+- **Requirement Gathering**  
+  Involves collecting information from stakeholders, users, and business documents to understand the needs of the system.
+
+- **Requirement Elicitation**  
+  Focuses on drawing out the actual requirements through techniques such as interviews, surveys, observations, and brainstorming sessions.
+
+   **Requirement Documentation**  
+  Organises and records the collected requirements in a clear, structured format, often in Software Requirement Specification (SRS) documents.
+
+- **Requirement Analysis and Modeling**  
+  Involves evaluating the gathered data, identifying gaps or conflicts, and using visual models like use case diagrams to represent system behaviour.
+
+- **Requirement Validation**  
+  Ensures the documented requirements are accurate, complete, and approved by all stakeholders before proceeding to design and development.
